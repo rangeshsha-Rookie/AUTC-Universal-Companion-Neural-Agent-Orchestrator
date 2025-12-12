@@ -1,0 +1,8 @@
+{
+  "name": "AUTC - AI Universal Task Companion",
+  "description": "A multi-agent AI system with a central orchestrator that intelligently routes tasks to specialized agents (Science, Code, Health, Business, etc.).",
+  "requestFramePermissions": [
+    "microphone",
+    "camera"
+  ]
+}
